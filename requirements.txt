@@ -1,7 +1,16 @@
-
 fastapi==0.79.0
-orjson==3.4.1
 pydantic==1.9.0
 uvicorn==0.18.2
-uvloop==0.14.0
+python-dotenv==0.19.2
+validators==0.18.2
+sqlalchemy==1.4.32
+asyncpg==0.26.0
+psycopg2-binary==2.9.3
+databases[postgresql]==0.6.1
+orjson
+alembic
+httpx
+pytest
+python-multipart
+psycopg2
 
