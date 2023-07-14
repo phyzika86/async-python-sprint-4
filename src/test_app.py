@@ -1,9 +1,3 @@
-"""
-Приветствую
-test_forward_to_target_url_success валится с ошибкой, но в чем причина не могу понять...
-Практически аналогичный тест test_butch_upload_file проходит
-"""
-
 from fastapi.testclient import TestClient
 from utils import session_utils
 import psycopg2
